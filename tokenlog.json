@@ -4,6 +4,7 @@
     "tokenAddress": "0xfFBAbEb49be77E5254333d5fdfF72920B989425f",
     "votingMethod": "Standard voting",
     "chainId": 100,
-    "getTokenMessage": "get gGIV by wrapping your GIV <a href='https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98'>here</a>"
+    "getTokenMessage": "get gGIV by wrapping your GIV",
+    "getTokenLink": "https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98"
     
 }
