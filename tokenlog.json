@@ -3,5 +3,6 @@
     "repo": "commonsprize",
     "tokenAddress": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
     "votingMethod": "Standard voting",
-    "chainId": 100
+    "chainId": 100,
+    "getTokenMessage": "Get your token here"
 }
